@@ -1,0 +1,34 @@
+🛡️ README – Network Packet Sniffer using Scapy (Python)
+📌 Overview
+
+This project is a network packet sniffer built using the Scapy library in Python.
+It captures live network traffic and extracts detailed information such as:
+
+Source & Destination IP
+
+Protocol (TCP, UDP, ICMP…)
+
+TTL, Flags, Fragment Offset
+
+MAC Addresses
+
+TCP/UDP Ports
+
+Sequence & Acknowledgment Numbers
+
+Payload Data
+
+Timestamp
+
+This tool is designed for learning, cybersecurity research, and traffic analysis.
+
+🚀 Features
+
+✔ Captures real-time packets
+✔ Extracts IP header details
+✔ Identifies TCP, UDP, and ICMP packets
+✔ Shows Ethernet (MAC) addresses
+✔ Displays TCP flags, ports, sequence numbers
+✔ Shows packet payload
+✔ Lightweight and easy to use
+✔ Based on Scapy — no external dependencies
